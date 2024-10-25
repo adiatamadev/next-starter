@@ -8,10 +8,9 @@ const nextConfig: NextConfig = {
       allowedOrigins: [
         'effective-rotary-phone-jjq94gjvjjgjfxrg-3000.app.github.dev', 'localhost:300'
       ]
-    }
+    },
   },
 
-    basePath: '/'
 };
 
 export default nextConfig;
