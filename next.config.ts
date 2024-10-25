@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
   experimental: {
     serverActions: {
       allowedOrigins: [
-        'localhost:300'
+        'effective-rotary-phone-jjq94gjvjjgjfxrg-3000.app.github.dev','localhost:300'
       ]
     },
   },
